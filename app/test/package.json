@@ -1,0 +1,14 @@
+{
+  "name": "js-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "mocha --timeout 9000  src/*.test.js"
+  },
+  "dependencies": {
+    "mocha": "3.1.0"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^3.6.0"
+  }
+}

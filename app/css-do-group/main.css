@@ -1,0 +1,36 @@
+body {
+  background-color: #070;
+}
+.btnSidebar {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: #00d;
+  font-size: 26px;
+  border-radius: 44px;
+  text-align: center;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  border: solid;
+  border-width: 0px;
+  border-color: #3f5;
+}
+.btnSidebar a {
+  color: #3f5;
+  text-decoration: none;
+}
+#gsap1,
+#gsap2 {
+  margin: 10%;
+  font-size: 56px;
+  color: #3f5;
+  position: absolute;
+}
+.btnGsap1 {
+  border-width: 5px;
+}
+#gsap1 span {
+  position: relative;
+}
+#gsap2 span {
+  position: relative;
+}

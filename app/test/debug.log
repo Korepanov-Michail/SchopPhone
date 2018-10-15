@@ -1,0 +1,2 @@
+[0828/185125.635:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[0828/185125.651:ERROR:exception_snapshot_win.cc(88)] thread ID 5908 not found in process
